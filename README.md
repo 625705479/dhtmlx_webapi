@@ -3,4 +3,4 @@
 asp.net webapi + ms access + cors + autofac + log4net
  
 ## Getting Started
-Please refer to my blog [萧秦](http://xqin.cnblogs.com/)
+Please refer to my blog [赵宁宜]
